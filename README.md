@@ -8,12 +8,14 @@ A robust machine learning project designed to predict air quality levels based o
 
 Air pollution poses significant risks to public health and the environment. This project leverages machine learning algorithms to analyze historical environmental data and predict Air Quality Index (AQI) values, enabling better monitoring and decision-making.
 
-##🎯 Objectives
+🎯 Objectives
 Analyze environmental and pollutant data
 Build predictive models for AQI estimation
 Evaluate model performance using standard metrics
 Provide insights into factors affecting air quality
-##🚀 Key Features
+
+
+## 🚀 Key Features
 Comprehensive data preprocessing and cleaning pipeline
 Exploratory Data Analysis (EDA) with visualizations
 Feature engineering and selection
